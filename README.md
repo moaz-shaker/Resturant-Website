@@ -2,6 +2,9 @@
 
 Welcome to the **Food Lover** restaurant website! This project is a responsive website created for a fictional restaurant, offering visitors a user-friendly experience to explore the restaurant's menu, special offers, and book a table.
 
+## Preview
+Live Preview - [Click Here](https://resturant-website-blue.vercel.app/)
+
 ## Table of Contents
 
 - [Project Description](#project-description)
