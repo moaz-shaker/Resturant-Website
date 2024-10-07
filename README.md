@@ -46,3 +46,28 @@ Follow these steps to get a copy of the project running locally:
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/food-lover-restaurant-website.git
+
+   ├── index.html       # Main HTML file
+├── style.css        # Stylesheet
+├── img/             # Folder for all images
+│   ├── logo.png     # Website logo
+│   ├── food1.png    # Example food images
+│   └── ...
+├── favicon.ico      # Favicon for the site
+└── README.md        # This README file
+
+
+### Explanation:
+
+- **Project Description**: Gives a brief overview of the site.
+- **Features**: Lists the main features of the site.
+- **Technologies Used**: Describes the technology stack used to build the site.
+- **Installation**: Guides the user on how to clone and run the project locally.
+- **Usage**: Explains how the website works and provides a link to the demo.
+- **File Structure**: Shows the directory structure of the project.
+- **Credits**: Acknowledges contributors and sources for external resources.
+- **License**: Notes that the project is open source, using an MIT license (optional). 
+
+Feel free to modify or extend this as per your project's specifics!
+
+
